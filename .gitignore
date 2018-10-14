@@ -23,6 +23,7 @@
 hs_err_pid*
 
 # Gradle build data
-/.gradle
-/.idea
 /build
+.gradle/4.1/fileHashes/fileHashes.bin
+.gradle/4.1/fileHashes/fileHashes.lock
+.idea/workspace.xml
